@@ -23,6 +23,54 @@ Donnoeurs adalah proyek desain UI/UX untuk platform donasi darah yang bertujuan 
 3.  Penambahan Database
 4.  Backend dengan menggunakan PHP atau lainnya.
    
+# KONSTRIBUSI #
+Untuk berkontribusi pada proyek ikuti langkah-langkah berikut:  
+
+### **1. Fork Repositori**  
+- Buka repositori GitHub: [witchyy/Donnoeurs-UI-UX-Designs-Website-Donor-Darah](https://github.com/witchyy/Donnoeurs-UI-UX-Designs-Website-Donor-Darah)  
+- Klik tombol **Fork** (di kanan atas) untuk membuat salinan repositori ke akun GitHub Anda.  
+
+### **2. Clone Repositori ke Lokal**  
+Setelah melakukan fork, clone repositori ke komputer Anda dengan menjalankan perintah berikut di terminal atau command prompt:  
+```bash
+git clone https://github.com/USERNAME/Donnoeurs-UI-UX-Designs-Website-Donor-Darah.git
+```
+Gantilah `USERNAME` dengan nama akun GitHub Anda.  
+
+Masuk ke direktori proyek:  
+```bash
+cd Donnoeurs-UI-UX-Designs-Website-Donor-Darah
+```
+
+### **3. Buat Branch Baru**  
+Sebelum mulai melakukan perubahan, buat branch baru untuk fitur atau perbaikan yang ingin Anda tambahkan:  
+```bash
+git checkout -b nama-branch-anda
+```
+Gantilah `nama-branch-anda` dengan nama yang sesuai, misalnya `fix-bug-navbar` atau `add-new-feature`.  
+
+### **4. Lakukan Perubahan dan Commit**  
+Edit file sesuai kontribusi yang ingin Anda lakukan. Setelah selesai, simpan perubahan, lalu jalankan:  
+```bash
+git add .
+git commit -m "Menambahkan fitur X atau memperbaiki bug Y"
+```
+
+### **5. Push ke GitHub**  
+Kirim perubahan ke repository fork Anda:  
+```bash
+git push origin nama-branch
+```
+
+### **6. Buat Pull Request (PR)**  
+- Buka repositori fork Anda di GitHub.  
+- Klik tombol **Compare & pull request**.  
+- Jelaskan perubahan yang Anda buat.  
+- Klik **Create pull request** untuk mengajukan kontribusi ke repository utama.  
+
+Setelah itu, maintainer proyek akan meninjau PR Anda. Jika diterima, kontribusi Anda akan masuk ke repositori utama. 🎉
+
+Jika perlu bantuan lebih lanjut, beri tahu saya! 🚀
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh

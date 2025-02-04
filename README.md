@@ -23,7 +23,7 @@ Donnoeurs adalah proyek desain UI/UX untuk platform donasi darah yang bertujuan 
 3.  Penambahan Database
 4.  Backend dengan menggunakan PHP atau lainnya.
    
-# KONSTRIBUSI #
+# CARA KONSTRIBUSI #
 Untuk berkontribusi pada proyek ikuti langkah-langkah berikut:  
 
 ### **1. Fork Repositori**  
@@ -68,9 +68,6 @@ git push origin nama-branch
 - Jelaskan perubahan yang Anda buat.  
 - Klik **Create pull request** untuk mengajukan kontribusi ke repository utama.  
 
-Setelah itu, maintainer proyek akan meninjau PR Anda. Jika diterima, kontribusi Anda akan masuk ke repositori utama. 🎉
-
-Jika perlu bantuan lebih lanjut, beri tahu saya! 🚀
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
